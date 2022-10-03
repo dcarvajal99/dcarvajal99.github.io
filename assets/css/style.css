@@ -1,0 +1,9 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+#head-section {
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
